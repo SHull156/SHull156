@@ -1,11 +1,9 @@
 ## Hi there 👋
+I'm Sarah, a Software Developer with hands-on experience across the full stack - HTML, CSS, JavaScript, React, Node.js, Java, and SQL — currently completing the CFG Java Plus Masters course.
 
-I'm Sarah — an Executive Assistant at a London-based FinTech, currently transitioning into Software Engineering.
-
-- 🔭 I'm currently working through the **CFG Java Plus Masters** course, building REST APIs with Spring Boot and MySQL
-- 🌱 Recently completed **Code First Girls' Full Stack Specialisation** and the **CFGdegree** (Distinction) - HTML, CSS, JavaScript, React, Node.js, MySQL
 - 💼 Built and deployed live production sites for real clients, including [sarahrolph.com](https://sarahrolph.com) and [evmobilemods.co.uk](https://evmobilemods.co.uk)
-- 🎯 Looking for junior/graduate Software Developer roles
+- 🏆 Completed the CFGdegree with Distinction and CFG's Full Stack Specialisation
+- 🎯 Transitioning from a decade in FinTech operations (most recently as an Executive Assistant) into a junior/graduate Software Developer role
 - 📫 Find my work: [portfolio](https://shull156.github.io/sarah-hull-portfolio/)
 
 ### I have experience using:
